@@ -7,5 +7,6 @@ Tested here: https://discord.com/channels/333949691962195969/826699940750295070/
 ``Your bot seems to be an unmodified instance of [dyno-clone](https://github.com/bot-clones/dyno-clone). We don't allow unmodified clones of other bots.``
 
 ## Help command
-![https://i.imgur.com/HArEkiX.png](Imgur link)
-![https://i.imgur.com/hffMZjU.png](Imgur link
+![Help Command 1](https://i.imgur.com/HArEkiX.png)  
+
+![Help Command 2](https://i.imgur.com/hffMZjU.png)
